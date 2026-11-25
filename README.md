@@ -29,12 +29,3 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 🚀 Projects
-
-<a href="https://github.com/zh333KV/car-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh333KV&repo=car-marketplace&theme=tokyonight&show_owner=false" />
-</a>
-<a href="https://github.com/zh333KV/weather-forecast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh333KV&repo=weather-forecast&theme=tokyonight&show_owner=false" />
-</a>
